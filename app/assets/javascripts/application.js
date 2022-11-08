@@ -16,5 +16,6 @@
 //= require jquery
 //= require bootstrap-sprockets
 //= require_tree .
-import("chartkick") 
-import("chart.js") 
+//= require chartkick
+//= require Chart.bundle
+//= require turbolinks
